@@ -1,4 +1,6 @@
+fastapi
+uvicorn
+pytest
 pandas
 requests
-openai
-
+python-dotenv
