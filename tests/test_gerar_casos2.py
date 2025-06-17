@@ -11,3 +11,4 @@ def test_gerar_casos_contem_fluxo_principal():
 def test_gerar_casos_comprimento_da_lista():
     resultado = gerar_casos("Login")
     assert len(resultado) == 4  # ✅ Verifica se a lista tem exatamente 4 casos
+entend
